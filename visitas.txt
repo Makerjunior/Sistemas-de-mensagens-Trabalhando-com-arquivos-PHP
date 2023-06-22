@@ -1,0 +1,8 @@
+
+<h3 style='color:#00f'>Junior Maker</h3>
+ Boa noite amigo !
+Esta vendo como vc me inspira, fiz essa aplicação pensando no que conversamos.
+A ideia e criar uma forma de comunicação dentro da aplicação.
+Embora essa aplicação seja bastante simples ela abriu caminho para muitas outras.
+Ate porque nessa eu não usei banco de dados, as mensagens são armazenadas em arquivos de texto.txt 
+no servidor.no servidor.
